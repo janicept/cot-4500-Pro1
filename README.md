@@ -87,8 +87,12 @@ Root: 2.8794, found in 4 iterations.
 Explanation of the File Structure:
 
 main/: Main execution files for running the methods.
+
 test/: Test cases for each of the methods.
+
 assignment_1.py: Main file that includes all the methods.
+
 requirements.txt: List of dependencies required to run the code.
+
 README.md: Documentation for the project.
 
